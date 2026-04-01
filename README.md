@@ -1,2 +1,2 @@
-# labradoor
-A home/landing page for your homelab.
+# Labradoor
+Labradoor is a tool for building home pages for your home lab or other selfhosted services.
